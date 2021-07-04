@@ -2,7 +2,7 @@ Currently doing "Software Testing Masterclass (2021) - From Novice to Expert" co
 
 This course is covering below topics:  
 
-#### Basic Software Testing:
+#### Basic Software Testing (completed):
 - Software Development Life Cycle
 - Testing Activities  
 - Bug Reporting: 
@@ -16,7 +16,7 @@ This course is covering below topics:
 - Testing Mindset  
 - Basics of Software Testing  
 
-#### Advance Testing Concepts
+#### Advance Testing Concepts (completed):
 - Black Box Testing Techniques Part 1-3 
 - State Transition Testing Practice  
 - Black Box Testing Practice  
@@ -31,7 +31,7 @@ This course is covering below topics:
 - Software Testing Blogs and Articles  
 - Advance Testing Concepts
 
-#### Backend, Web and Mobile Testing
+#### Backend, Web and Mobile Testing:
 - Backend Testing  
 - API Testing  
 - API Testing with Postman  
@@ -41,7 +41,7 @@ This course is covering below topics:
 - Backend, Web and Mobile Testing Practice
 - Software Testing Q&A
 
-#### Software Testing Tools  
+#### Software Testing Tools:  
 - Section Introduction  
 - Jira for Bug Reporting  
 - GitHub for Bug Reporting  
@@ -50,12 +50,12 @@ This course is covering below topics:
 - Miro for Collaboration  
 - Charles Proxy for Debugging
 
-#### SQL For Software testers  
+#### SQL For Software testers:  
 - SQL Environment and Database Setup  
 - SQL Queries and Database Testing  
 - SQL Queries Online Exercise  
 
-#### Deep Dive in Testing
+#### Deep Dive in Testing:
 - Waterfall Model Process Management  
 - V - Model Process Management  
 - Agile Process Management  
@@ -65,4 +65,15 @@ This course is covering below topics:
 - Usability Testing  
 - A-B Testing  
 - Test Automation  
+
+#### Expert Level: Advanced API Testing with Postman:
+- Introduction to Trello Api's  
+- Path and Query Variables  
+- Global and Environment Variables  
+- Writing Postman Tests  
+- Json Parsing and Dynamic Variables  
+- Advanced Testing with Postman  
+- Test Run with Collection Runner  
+
+
 
