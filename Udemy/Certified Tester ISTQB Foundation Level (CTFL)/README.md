@@ -1,1 +1,7 @@
-
+- Fundamentals of Testing  
+- Testing Throughout The Software Life Cycle  
+- Static Testing  
+- Test Design Techniques  
+- Test Management  
+- Tool Support For Testing  
+- Sample Exam  
