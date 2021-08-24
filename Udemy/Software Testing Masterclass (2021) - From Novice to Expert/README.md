@@ -1,8 +1,8 @@
-Currently doing "Software Testing Masterclass (2021) - From Novice to Expert" course on Udemy: https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/
+Completed "Software Testing Masterclass (2021) - From Novice to Expert" course on Udemy: https://www.udemy.com/course/software-testing-masterclass-from-novice-to-expert/
 
 This course is covering below topics:  
 
-#### Basic Software Testing (completed):
+#### Basic Software Testing:
 - Software Development Life Cycle
 - Testing Activities  
 - Bug Reporting: 
@@ -16,7 +16,7 @@ This course is covering below topics:
 - Testing Mindset  
 - Basics of Software Testing  
 
-#### Advance Testing Concepts (completed):
+#### Advance Testing Concepts:
 - Black Box Testing Techniques Part 1-3 
 - State Transition Testing Practice  
 - Black Box Testing Practice  
