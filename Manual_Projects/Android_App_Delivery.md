@@ -12,8 +12,8 @@ Application for Android food delivery. The cycle in which we test the subscripti
 1st stage, testing trial period, lasts 14 days. Whether it is visible or becomes activated when you select it.  
 2nd stage 14 days later, when the trial period ends - to see if subscription money is transferred.
 
-**Requirements**: 
+**Requirements**:   
 .....
 
 **Test Objective:**  
-......
+.....
