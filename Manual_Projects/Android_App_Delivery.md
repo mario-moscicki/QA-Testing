@@ -13,7 +13,7 @@ Application for Android food delivery. The cycle in which we test the subscripti
 2nd stage 14 days later, when the trial period ends - to see if subscription money is transferred.
 
 **Requirements**: 
-  
-**Test Objective:**  
+.....
 
-// do
+**Test Objective:**  
+......
