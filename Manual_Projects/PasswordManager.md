@@ -8,10 +8,12 @@ Application PC in which the owner can save passwords. It has 3 types of bookmark
 
 ## Project on Google Sheet  
 
-[Google Sheet](https://docs.google.com/spreadsheets/d/1ldOad1ZItDONqRDP_VsNrQ5CCqPrAGLjwCl1Qre3LoA/edit?usp=sharing)  
+[Google Sheet](https://docs.google.com/spreadsheets/d/1c9i4hPt0Z2z6Wwny3DcANW2k514Bocwelo06sLXM4AM/edit?usp=sharing)  
 ## Short video presentation showing how looks like app:  
 
-[Video](https://1drv.ms/v/s!AodAVyLOWIQHhM5rXbc1syM4oGMfLg?e=aTVyYN)  
+
+
+https://github.com/mario-moscicki/QA-Testing/assets/69436611/7444d322-d233-4982-a8e1-59b58d70b111  
 
 ## History of updates:  
 
