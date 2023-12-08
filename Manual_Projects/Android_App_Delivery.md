@@ -13,7 +13,8 @@ Application for Android food delivery. The cycle in which we test the subscripti
 2nd stage 14 days later, when the trial period ends - to see if subscription money is transferred.
 
 **Requirements**:   
-.....
+Specific Real Localization
+Platforms: Web, Android v.6 or greater, iOS v.12 or 
 
 **Test Objective:**  
 .....
