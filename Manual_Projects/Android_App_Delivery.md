@@ -1,7 +1,9 @@
 **Project**  
+
 Application for Android food delivery. The cycle in which we test the subscription function. The subscription provides free delivery of orders within a pre-configured delivery distance. The first 14 days of the subscription is a trial period. "Normal" paid subscription starts after the trial period.  
   
 **Test Cycle:**  
+
 - Shopping with the new functionality activated. Testing all new features with it.
 - Testers, had to check an essential new functionality works as expected in real-world conditions
 - Sites with the 'new functionality' are visible and accessible to customers in the cities included in the pilot phase.
@@ -13,15 +15,16 @@ Application for Android food delivery. The cycle in which we test the subscripti
 2nd stage 14 days later, when the trial period ends - to see if subscription money is transferred.
 
 **Requirements**:   
+
 Specific Real Localization
 Platforms: Web, Android v.6 or greater, iOS v.12 or 
 
 **Test Objective:**  
+
 - Users had to test the app to find venues with special discount price regarding the activated subscription plan  
 - User needs to have at least 3 venues within ~3km of the user location  
 - If the user didn't have 3 venues close by, the special feature wasn't shown at all  
 - Venues providing support for special discount are displayed with a “special” icon
-
 
 --​ Discovery view subscription flow: Check Discovery view for subscription ads
 -  Sign into the trial period
