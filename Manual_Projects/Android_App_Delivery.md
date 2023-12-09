@@ -3,7 +3,7 @@ Application for Android food delivery. The cycle in which we test the subscripti
   
 **Test Cycle:**  
 - Shopping with the new functionality activated. Testing all new features with it.
-- Testers, we want to make sure that an essential new functionality works as expected in real-world conditions
+- Testers, had to check an essential new functionality works as expected in real-world conditions
 - Sites with the 'new functionality' are visible and accessible to customers in the cities included in the pilot phase.
 - Customers can log in to the 'new functionality' service using actual payment methods.
     
@@ -17,4 +17,16 @@ Specific Real Localization
 Platforms: Web, Android v.6 or greater, iOS v.12 or 
 
 **Test Objective:**  
-.....
+- Users had to test the app to find venues with special discount price regarding the activated subscription plan  
+- User needs to have at least 3 venues within ~3km of the user location  
+- If the user didn't have 3 venues close by, the special feature wasn't shown at all  
+- Venues providing support for special discount are displayed with a “special” icon
+
+
+--​ Discovery view subscription flow: Check Discovery view for subscription ads
+-  Sign into the trial period
+-  Create an order with special feature delivery
+-  Make sure delivery costs are as expected (without fee)
+
+-- Checkout subscription flow (exploratory)  
+- Start an order with a "special price feature" venue and ensure this is advertised during the checkout process (how & where?)
