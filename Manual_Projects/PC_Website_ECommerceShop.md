@@ -4,9 +4,9 @@ Web site, one of the leading e-commerce
   
 **Test Cycle:**
 
-The functional cycle of the website
-The whole website is in scope including the emails
-The checkout process may be completed (not for mobile phone products) 
+- The functional cycle of the website
+- The whole website is in scope including the emails
+- The checkout process may be completed (not for mobile phone products) 
     
 **Test Cycle Period:**
 
@@ -16,15 +16,26 @@ The checkout process may be completed (not for mobile phone products)
 
 Desktops:  
 Windows 8 and higher  
-Browsers: Chrome (from version 89), Firefox (from version 86), Edge (from version 89)  
+
+Browsers:  
+- Chrome (from version 89),  
+- Firefox (from version 86),  
+- Edge (from version 89)  
 
 Mac OS 10.14.x and higher  
-Browsers: Chrome (from version 89), Firefox (from version 86), Safari (from version 14)  
+Browsers:  
+Chrome (from version 89),  
+Firefox (from version 86),  
+Safari (from version 14)  
 
-Tablets & Smartphones:
-iOS 12 and higher - Chrome (latest version), Safari
-Android 5 and higher - Chrome (latest version), Samsung Stock Browser (from version 13.2)
-Android hero devices: Samsung Galaxy A51, Samsung Galaxy S10, Huawei P30, Xiaomi Redmi Note 8 Pro
+Tablets & Smartphones:  
+- iOS 12 and higher,
+- Chrome (latest version),
+- Safari,
+- Android 5 and higher,
+- Chrome (latest version),
+- Samsung Stock Browser (from version 13.2)
+- Android hero devices: Samsung Galaxy A51, Samsung Galaxy S10, Huawei P30, Xiaomi Redmi Note 8 Pro
 
 **Test Objective:**  
 
